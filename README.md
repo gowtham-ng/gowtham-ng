@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on my graduate computer science degeree at Arizona State University
+- 🔭 I’m currently working on my graduate computer science degree at Arizona State University
 - 💬 Ask me about my hobbies :D
 - 📫 How to reach me: gowtham.narayan.8@gmail.com
 - 😄 Pronouns: He/Him
